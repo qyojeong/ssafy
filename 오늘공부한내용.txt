@@ -3,3 +3,4 @@ git add,commit,push를 배웠다
 list도 배웠어
 
 >> good 잘했어!!
+어렵다git status!
